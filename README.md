@@ -1,1 +1,6 @@
-# c-programming
+# c-programming![Screenshot (102)](https://user-images.githubusercontent.com/100866783/227106456-1650e15c-55db-4a7c-8e07-f61a463a4ea1.png)
+![Screenshot (103)](https://user-images.githubusercontent.com/100866783/227106466-3b751526-b155-4326-aa90-f7d6354153dd.png)
+![Screenshot (104)](https://user-images.githubusercontent.com/100866783/227106468-695beb97-e78d-49b3-b18e-0a9f6d383e1b.png)
+![Uploading Screenshot (103).png…]()
+![Screenshot (102)](https://user-images.githubusercontent.com/100866783/227110850-3de08a76-6f7e-450c-8d10-84d4aa8aaaec.png)
+![Screenshot (106)](https://user-images.githubusercontent.com/100866783/227110912-604f50e6-7b3c-4476-9900-c94bee6af0e9.png)
